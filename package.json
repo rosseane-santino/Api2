@@ -1,0 +1,13 @@
+{
+  "name": "lua-renamer-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^4.19.2",
+    "body-parser": "^1.20.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
